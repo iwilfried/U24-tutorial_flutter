@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 Wenn du ein neues Flutter-Projekt mit dem Befehl flutter create my_project erstellst, generiert Flutter eine bestimmte Verzeichnisstruktur. Hier ist eine detaillierte Übersicht der standardmäßigen Verzeichnisstruktur und deren Bedeutung:
 
 Standardmäßige Verzeichnisstruktur eines Flutter-Projekts
+```
 my_project/
 ├── android/
 ├── build/
@@ -34,6 +35,9 @@ my_project/
 ├── analysis_options.yaml
 ├── pubspec.yaml
 └── README.md
+```
+
+
 Verzeichnisse und Dateien im Detail
 android/:
 

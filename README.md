@@ -39,6 +39,7 @@ my_project/
 
 
 Verzeichnisse und Dateien im Detail
+
 **android/:**
 
 Enthält den Android-spezifischen Code und die Konfigurationsdateien. Dieser Ordner ermöglicht es, Flutter-Apps auf Android-Geräten auszuführen.
